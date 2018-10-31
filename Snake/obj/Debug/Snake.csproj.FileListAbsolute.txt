@@ -1,0 +1,7 @@
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\bin\Debug\Snake.exe
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\obj\Debug\Snake.exe
+C:\Users\Georgy\Projects\GB_OOP_basics_snake\Snake\obj\Debug\Snake.pdb
